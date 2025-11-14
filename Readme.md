@@ -2,8 +2,10 @@
 
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunooziel/) -->
 
-# <p align="center"><img src="figures\convergence_curve.png" width="980"></p>
-> Figure 1: Illustration of the convergence curves of the VQE, AF-QCE, and APCD-QCE algorithms for 6 qubits and 14 qubits, respectively.
+<p align="center">
+  <img src="figures/convergence_curve.png" width="980">
+</p>
+> Figure 1: Plot of the convergence curves of the VQE, QCE, and QCE-APCD algorithms for 14 qubits instance of the set of partitioning.
 
 ## Overview
 Quantum algorithms hold significant potential for solving optimization problems. Among them, variational algorithms are particularly promising for near-term quantum devices due to their hybrid quantum-classical approach to parameter optimization. However, challenges like convergence stagnation, such as barren plateaus, often hinder their performance.
