@@ -12,7 +12,7 @@ Quantum algorithms hold significant potential for solving optimization problems.
 
 This repository introduces a quantum circuit framework with variable topology to address these challenges. The framework incorporates two approaches:
 
-1. An **ansatz-free evolutionary** method known from literature [1].
+1. The **quantum circuit evolution** method known from literature [1].
 2. A novel **pseudo-counterdiabatic evolutionary** term, inspired by counterdiabatic physics [2], tailored to the Hamiltonian structure.
 
 Both approaches were applied to the Set Partitioning Problem in this study, as detailed in [Quantum circuit evolutionary framework applid on the set partitioning problem (12/2024)]()
